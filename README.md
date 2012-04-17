@@ -45,6 +45,8 @@ ActiveAdmin.register Gallery do
 end
 ```
 
+As you can see, there's no special option for locales. The list is taken from `I18n.available_locales`, so you'd probably want to define the locales your application works with somewhere.
+
 ## Contributing
 
 1. Fork
