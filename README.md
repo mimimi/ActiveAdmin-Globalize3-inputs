@@ -1,5 +1,3 @@
-# .
-
 This small hack implements has_many friendly Globalize3 helper for ActiveAdmin.
 
 Admittedly it generates structure that [jQueryUI tabs()](http://jqueryui.com/demos/tabs/) expect. However the whole idea is pretty simple and you should be able to change it to suit your needs.
