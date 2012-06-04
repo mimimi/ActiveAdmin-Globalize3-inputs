@@ -6,7 +6,7 @@ Admittedly it generates structure that [jQueryUI tabs()](http://jqueryui.com/dem
 
 Add this line to your application's Gemfile:
 
-    gem 'ActiveAdmin-Globalize3-inputs', :git => 'https://github.com/mimimi/ActiveAdmin-Globalize3-inputs'
+    gem 'ActiveAdmin-Globalize3-inputs'
 
 And then execute:
 
